@@ -1,0 +1,5 @@
+Wed Nov 07 15:00:15 MSK 2018 Starting is successful BAD Passed NO
+Wed Nov 07 14:36:37 MSK 2018 Starting is successful OK Passed YES
+Wed Nov 07 14:35:23 MSK 2018 Starting is successful BAD Passed YES
+Wed Nov 07 13:19:21 MSK 2018 Starting is successful BAD Passed NO
+Fri Nov 02 18:49:22 MSK 2018 Starting is successful OK Passed NO

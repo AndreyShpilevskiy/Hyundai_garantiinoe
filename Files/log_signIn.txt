@@ -1,0 +1,16 @@
+Fri Nov 02 16:47:49 MSK 2018 Authorization is successful BAD during the test of game Hyundai 
+Fri Nov 02 16:40:13 MSK 2018 Authorization is successful BAD during the test of game Hyundai 
+Fri Nov 02 16:30:22 MSK 2018 Authorization is successful BAD during the test of game Hyundai 
+Fri Nov 02 16:25:47 MSK 2018 Authorization is successful BAD during the test of game Hyundai 
+Fri Nov 02 16:24:57 MSK 2018 Authorization is successful BAD during the test of game Hyundai 
+Fri Nov 02 16:13:48 MSK 2018 Authorization is successful BAD during the test of game Hyundai 
+Fri Nov 02 16:09:15 MSK 2018 Authorization is successful BAD during the test of game Hyundai 
+Fri Nov 02 16:07:41 MSK 2018 Authorization is successful BAD during the test of game Hyundai 
+Fri Nov 02 16:03:00 MSK 2018 Authorization is successful BAD during the test of game Hyundai 
+Fri Nov 02 14:42:48 MSK 2018 Authorization is successful BAD during the test of Chat BondStreet 
+Fri Nov 02 14:21:47 MSK 2018 Authorization is successful BAD during the test of Chat BondStreet 
+Fri Nov 02 14:21:39 MSK 2018 Authorization is successful BAD during the test of Chat BondStreet 
+Fri Nov 02 14:20:53 MSK 2018 Authorization is successful BAD during the test of Chat BondStreet 
+Fri Jul 14 06:04:16 MSK 2017 Авторизация успешна BAD во время теста игры Дурак
+Thu Jul 13 21:03:47 MSK 2017 Авторизация успешна BAD во время теста игры Лото 
+Thu Jul 13 21:03:02 MSK 2017 Авторизация успешна BAD во время теста игры Дурак
